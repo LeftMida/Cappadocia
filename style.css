@@ -1,0 +1,390 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url(./Rectangle\ 43.jpg);
+    width: 100%;
+    height: 1050px;
+    position: relative;
+}
+.headerli{
+    list-style: none;
+    margin-top: 5%;
+}
+#road{
+    text-decoration: underline;
+    margin-left: 15%;
+}
+#headerul{
+    display: flex;
+    flex-direction: row;
+}
+#hotel{
+    margin-left: 3%;
+}
+#cost{
+    margin-left: 3%;
+}
+#tel{
+    margin-left: 35%;
+}
+#cap{
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    font-size: 150px;
+    font-family: 'Imperial Script', cursive;
+}
+
+#Tyr{
+    position: absolute;
+    left: 55%;
+    font-size: 35px;
+    top: 37%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#telimg{
+    position: absolute;
+    left: 68%;
+    height: 20px;
+    width: 20px;
+    top: 7.1%;
+}
+#fairy{
+    font-size: 75px;
+    margin-left: 200px;
+    margin-top: 200px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+}
+#tail{
+    margin-left: 25%;
+    font-size: 25px;
+}
+#carouselExampleControls{
+    width: 700px;
+    height: 700px;
+    margin-top: 10%;
+}
+.div1{
+    list-style: none;
+}
+#li1{
+    margin-left: 48%;
+    margin-top: -46%;
+    font-size: 13px;
+}
+#li2{
+    margin-left: 48%;
+    margin-top: 1%;
+    font-size: 13px;
+}
+#h5{
+    margin-left: 49%;
+    margin-top: 3%;
+    font-size: 15px;
+}
+#li3{
+    margin-left: 48%;
+    margin-top: 1%;
+    font-size: 13px;
+}
+#li4{
+    margin-left: 48%;
+    margin-top: 3%;
+    font-size: 13px;
+}
+#li5{
+    margin-left: 48%;
+    margin-top: 3%;
+    font-size: 13px;
+}
+#Out{
+    margin-top:10%;
+    margin-left: 20%;
+    font-size: 75px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+}
+#Road{
+    margin-left: 30%;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.Day{
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.Daytxt{
+    list-style: none;
+    font-size: 17px;
+    margin-left: 18%;
+    margin-top: 1%;
+    font-weight: 500;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#lock{
+    margin-left: 20%;
+    width: 180px;
+    margin-top: 2%;
+    background-color: white;
+        border: 3px solid #E2AB3F ;
+}
+#carouselExampleControls1{
+    width: 700px;
+    margin-top: -68%;
+    margin-left: 50%;
+}
+#Hotel{
+    margin-top:10%;
+    margin-left: 20%;
+    font-size: 75px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+}
+#Hotel1{
+    margin-left: 30%;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#Hotel2{
+    margin-left: 20%;
+    margin-top: 5%;
+    height: 700px;
+}
+.liHotel13{
+    list-style: none;
+    font-size: 13px;
+    margin-left: 56%;
+}
+#li10{
+    margin-top: -44%;
+}
+#li11{
+   margin-top: 2%;
+}
+#li12{
+   margin-top: 2%;
+}
+#rec1{
+    margin-top: 15%;
+    margin-left: 6.8%;
+}
+#rec2{
+    margin-top: 15%;
+}
+#rec3{
+    margin-left: 56.7%;
+    margin-top: -11.5%;
+}
+#rec4{
+    margin-top: -11.5%;
+}
+.Sec2{
+    height: 1000px;
+}
+#Price123{
+    margin-top:10%;
+    margin-left: 15%;
+    font-size: 75px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+}
+#Price1234{
+    margin-left: 20%;
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#li15{
+    list-style: none;
+    margin-left: 15%;
+    margin-top: 3%;
+    font-size: 13px;
+}
+#li16{
+    list-style: none;
+    margin-left: 56%;
+    margin-top: -16.5%;
+    font-size: 13px;
+}
+#Yes{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+#No{
+    margin-left: 56%;
+}
+.YesorNo{
+    list-style: none;
+    margin-left: 15%;
+    margin-top: 2%;
+    font-size: 13px;
+}
+.h1234{
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -1.9%;
+}
+.YesorNo12{
+    list-style: none;
+    margin-left: 56%;
+    margin-top: 2%;
+    font-size: 13px;
+}
+#ball{
+    margin-left: 75%;
+    margin-top: -20%;
+    height: 400px;
+}
+#last{
+    font-size: 75px;
+    margin-left: 270px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+    margin-top: 14%;
+}
+#mini{
+    margin-left: 58%;
+    font-size: 25px;
+    font-weight: lighter;
+}
+#last1{
+    font-size: 75px;
+    margin-left: 410px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+}
+#mini1{
+    margin-left: 79%;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.inputs{
+    width: 63%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 45%;
+}
+.inputlast{
+    background-color: white;
+    border: #E2AB3F 1px solid;
+    width: 340px;
+}
+.ostav{
+    background-color: white;
+    border: #E2AB3F 1px solid;
+    width: 200px;
+}
+#img55{
+    width: 500px;
+    height: 700px;
+    margin-left: 10%;
+}
+.seclast{
+    display: flex;
+    flex-direction: row;
+}
+footer{
+    background-image: url(./Rectangle\ 42.png);
+    position: relative;
+    width: 100%;
+    height: 1180px;
+}
+#whiteballon{
+    position: absolute;
+    width: 360;
+    height: 550;
+    left: 15%;
+    top: 13%;
+    z-index: 1;
+}
+#footh1{
+    font-size: 75px;
+    color: #E2AB3F;
+    font-family: 'Imperial Script', cursive;
+    position: absolute;
+    z-index: 2;
+    left: 21%;
+    top: 17%;
+}
+#tel{
+    position: absolute;
+    z-index: 2;
+    right: 78%;
+    top: 25%;
+}
+.number{
+    font-size: 17px;
+    position: absolute;
+    z-index: 2;
+    left: 23%;
+    top: 25.3%;
+}
+#message{
+    position: absolute;
+    z-index: 2;
+    right: 80%;
+    top: 28%;
+}
+#message1{
+    position: absolute;
+    z-index: 2;
+    right: 78.2%;
+    top: 28.1%;
+}
+.gmail{
+    font-size: 17px;
+    position: absolute;
+    z-index: 2;
+    left: 20%;
+    top: 28%;
+}
+.youtube{
+    position: absolute;
+    z-index: 2;
+    right: 77%;
+    top: 35%;
+}
+.youtube1{
+    position: absolute;
+    z-index: 2;
+    right: 75.7%;
+    top: 36%;
+}
+.facebook{
+    position: absolute;
+    z-index: 2;
+    right: 73.5%;
+    top: 35%;
+}
+.inst{
+    position: absolute;
+    z-index: 2;
+    top: 35%;
+    right: 70%;
+}
+.inst1{
+    position: absolute;
+    z-index: 2;
+    top: 35.6%;
+    right: 68.5%;
+}
+#footh11{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    font-size: 100px;
+    font-family: 'Imperial Script', cursive;
+}
+.Sec3{
+    height: 700px;
+}
